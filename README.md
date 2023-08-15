@@ -25,6 +25,6 @@ This Python program simulates a coffee machine that allows users to buy differen
 - You can modify the program to add more coffee types or customize the resource requirements.
 - The `interact` method maintains an ongoing interaction with the user until they choose to exit.
 
-Feel free to modify and enhance this code according to your preferences. Enjoy running your virtual coffee machine and exploring its functionalities!
+## Acknowledgements
 
-Whether you're a coffee lover or not, have fun experimenting with your Python-based coffee machine simulator!
+This project is inspired by the JetBrains Academy.
